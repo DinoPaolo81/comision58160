@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    background-color: rgba(3, 3, 3, 0.842);
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.active {
+    color: black
+}
