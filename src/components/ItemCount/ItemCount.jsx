@@ -7,7 +7,7 @@ const ItemCount = ({ onAdd }) => {
         <>
             <h1>{count}</h1>
             <button onClick={decrement}>decrement</button>
-            <button onClick={() => onAdd(count)}>Agregar al carrito</button>
+            <button onClick={() => onAdd(count)}>Añadir al carrito</button>
             <button onClick={increment}>increment</button>
         </>
     )

@@ -1,12 +1,18 @@
 .container {
     display: flex;
+    list-style-type: none;
     justify-content: space-around;
-    margin-bottom: 50px;
-    background-color: rgba(3, 3, 3, 0.842);
-    color: aliceblue;
+    margin-bottom: 10px;
+    background-color: gray;
+    color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .active {
-    color: black
+    list-style-type: none;
+    color: white;
+    display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+   font-size: 20px;
 }

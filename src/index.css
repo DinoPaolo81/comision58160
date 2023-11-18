@@ -29,11 +29,11 @@
     place-items: center;
     min-width: 320px;
     min-height: 100vh;
-background-color: aqua;
+background-color: white;
   }
   
   h1 {
-    font-size: 3.2em;
+    font-size: 1%;
     line-height: 1.1;
   }
   
@@ -49,7 +49,7 @@ background-color: aqua;
     transition: border-color 0.25s;
   }
   button:hover {
-    border-color: #646cff;
+    border-color: #d6ff64;
   }
   button:focus,
   button:focus-visible {

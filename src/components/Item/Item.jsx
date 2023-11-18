@@ -11,7 +11,7 @@ const Item = ({ id, name, img, price }) => {
     return (
         <div onClick={handleClick} style={{ marginBottom: 50}}>
             <h1>{name}</h1>
-            <img src={img} style={{ width: 200}}/>
+            <img src={img} style={{ width: 150}}/>
             <h2>${price}</h2>
             {/* <button onClick={() => navigate('/item')}>Ver detalle</button> */}
             <Link to={`/item/${id}`}>Ver detalle</Link>
