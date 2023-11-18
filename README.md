@@ -10,4 +10,4 @@ Este es un Ecommerce, en el cual se simula una tienda de venta de guitarras.
 
 Se puede ver un video en formato GIF en la carpeta docs donde recorremos las diferentes categorías de guitarras, seleccionamos una y finalizamos la compra recibiendo un ID de la orden.
 
-![Ver video](../ecommercedinomenichini/docs/ecommerce.giff)
+![Ver video](../ecommercedinomenichini/docs/ecommerce.gif)
